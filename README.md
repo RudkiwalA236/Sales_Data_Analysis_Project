@@ -1,6 +1,6 @@
 # Sales_Data_Analysis_Project
 ### Dataset, Tableau File and Final Dashboard is uploaded!!
-Data from a Sales spreadsheet has being analysed and visualised using Tableau.
+Data from a Sales dataset has being analysed and visualised using Tableau.
 
 *** Overview:
 
