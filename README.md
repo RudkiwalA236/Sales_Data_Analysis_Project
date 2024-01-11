@@ -3,6 +3,7 @@
 Data from a Sales spreadsheet has being analysed and visualised using Tableau.
 
 *** Overview:
+
 Welcome to the repository for the DataViz Excellence project, where we harness the power of Tableau to transform raw data into captivating visual stories. This project focuses on leveraging Tableau's capabilities for data visualization, exploration, and insightful analytics.
 
 *** Key Features:
