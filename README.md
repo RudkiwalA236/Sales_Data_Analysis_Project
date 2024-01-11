@@ -21,7 +21,9 @@ Transforming data into actionable insights for informed decision-making. Customi
 Ensuring accessibility across devices with responsive design principles. Optimized visualizations for desktop, tablet, and mobile platforms.
 
 *** Technologies Used:
+
 Tableau: Leveraging Tableau Desktop and Tableau Server for seamless development and deployment of interactive dashboards.
 
 *** Contributing:
+
 Contributions are welcome! Whether you're interested in enhancing existing visualizations, optimizing performance, or adding new features, please feel free to submit pull requests. 
