@@ -1,5 +1,5 @@
 # Sales_Data_Analysis
-### Dataset, Tableau File and Final Dashboard is uploaded!!
+### Dataset, Tableau File and Final Dashboard are uploaded!!
 Data from a Sales dataset has being analysed and visualised using Tableau.
 
 *** Overview:
